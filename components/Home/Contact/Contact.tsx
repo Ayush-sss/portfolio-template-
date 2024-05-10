@@ -6,7 +6,7 @@ const Contact = (): JSX.Element => {
       <h2 className="mb-8 text-3xl font-bold">Contact</h2>
 
       <p className="text-lg font-normal text-gray-100">
-        You can send me over an e-mail on{" "}
+        You can e-mail on{" "}
         <Link
           href="mailto:contact@anishde.dev"
           className="text-blue-400 hover:!text-blue-300"
